@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureBaseCallAnalyzer", "EnsureBaseCallAnalyzer\EnsureBaseCallAnalyzer\EnsureBaseCallAnalyzer.csproj", "{9296572F-6259-4924-915C-F97EC7F3DE16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureBaseCallAnalyzer.Test", "EnsureBaseCallAnalyzer\EnsureBaseCallAnalyzer.Test\EnsureBaseCallAnalyzer.Test.csproj", "{FE80FA54-1555-4298-BEF0-8746D58E04B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureBaseCallAnalyzer.Vsix", "EnsureBaseCallAnalyzer\EnsureBaseCallAnalyzer.Vsix\EnsureBaseCallAnalyzer.Vsix.csproj", "{B0B08261-2C68-4226-A89C-92AA30467F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9296572F-6259-4924-915C-F97EC7F3DE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9296572F-6259-4924-915C-F97EC7F3DE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9296572F-6259-4924-915C-F97EC7F3DE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9296572F-6259-4924-915C-F97EC7F3DE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE80FA54-1555-4298-BEF0-8746D58E04B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE80FA54-1555-4298-BEF0-8746D58E04B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE80FA54-1555-4298-BEF0-8746D58E04B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE80FA54-1555-4298-BEF0-8746D58E04B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B08261-2C68-4226-A89C-92AA30467F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B08261-2C68-4226-A89C-92AA30467F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B08261-2C68-4226-A89C-92AA30467F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B08261-2C68-4226-A89C-92AA30467F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
